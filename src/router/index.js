@@ -9,6 +9,8 @@ const routes = [
     path: '/',
     name: 'Home',
     component: Home,
+    // redirect 直接導向去 list
+    redirect: '/list',
     meta: {
       title: '蕃茄鐘'
     }

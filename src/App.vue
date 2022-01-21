@@ -9,7 +9,7 @@
     Home
   #contect
     //- keep-alive => 因為 setInterval 的關係，沒有的話換頁之後暫停鍵會消失，變開始鍵
-    keep-alive
+    keep-alive(include="Settings")
       router-view
         List
 </template>
