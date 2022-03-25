@@ -84,7 +84,7 @@ export default {
 .home{
   font-weight: bold;
   position: absolute;
-  top:210%;
+  top:220%;
   left: 20%;
 }
 
@@ -92,16 +92,18 @@ export default {
   width: 100px;
   text-align: center;
   position: absolute;
-  left: 6%;
-  top: 140%;
+  left: 7%;
+  top: 120%;
 }
 
 h1{
   font-size: 70px;
+  top: 80%;
 }
 
 h5{
   position: absolute;
   left: 6%;
 }
+
 </style>

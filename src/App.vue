@@ -16,7 +16,7 @@
 
 <style scope>
 #app {
-  width: 95vw;
+  width: 100vw;
   height: 95vh;
   position: relative;
   background: url(../src/assets/Bitmap.png) no-repeat;
@@ -25,7 +25,7 @@
 
 #top {
   position: relative;
-  top: 15%;
+  top: 5%;
 }
 
 .btn1,
@@ -54,6 +54,10 @@
 
 h2 {
   font-style: italic;
+}
+
+.container {
+  max-width: 1024px;
 }
 </style>
 

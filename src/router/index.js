@@ -28,7 +28,7 @@ const routes = [
     name: 'List',
     component: () => import(/* webpackChunkName: "list" */ '../views/List.vue'),
     meta: {
-      title: '蕃茄鐘 | 清單'
+      title: '蕃茄鐘'
     }
   }
 ]
