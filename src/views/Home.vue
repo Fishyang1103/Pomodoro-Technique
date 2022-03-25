@@ -85,7 +85,7 @@ export default {
   font-weight: bold;
   position: absolute;
   top:210%;
-  left: 26.5%;
+  left: 20%;
 }
 
 .lg{

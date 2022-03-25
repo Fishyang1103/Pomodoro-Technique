@@ -23,7 +23,7 @@
 #settings{
   position: absolute;
   left: 50%;
-  top: 30%;
+  top: 35%;
 }
 
 .noborder{

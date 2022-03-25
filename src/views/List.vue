@@ -62,7 +62,7 @@
   display: inline-block;
   position: absolute;
   left: 50%;
-  top: 30%;
+  top: 35%;
 }
 
 .title{

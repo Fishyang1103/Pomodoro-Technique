@@ -20,7 +20,7 @@
   height: 100vh;
   position: relative;
   background: url(../src/assets/Bitmap.png) no-repeat;
-  background-position: 28% 45%;
+  background-position: 20% 65%;
 }
 
 #top {
