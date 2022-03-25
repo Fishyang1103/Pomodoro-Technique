@@ -16,8 +16,8 @@
 
 <style scope>
 #app {
-  width: 100vw;
-  height: 100vh;
+  width: 95vw;
+  height: 95vh;
   position: relative;
   background: url(../src/assets/Bitmap.png) no-repeat;
   background-position: 20% 65%;
